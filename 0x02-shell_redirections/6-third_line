@@ -1,2 +1,2 @@
 #!bin/bash
-d -n 3 lacta 
+d -n 3 lacta |tail -1 
