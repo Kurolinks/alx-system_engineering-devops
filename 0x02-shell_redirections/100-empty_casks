@@ -1,2 +1,2 @@
 #!/bin/bash
-Find -empty | cut -d: -f1
+Find -empty | cut -d: -f1 
